@@ -18,7 +18,7 @@ https://neps.academy/problem/279
 
 Zenzo é um aluno de matemática promissor e está encantado com a mais recente aula de recursões de seu professor. Ele esta em busca de maneiras de aproximar recursões e, para isso, precisa da sua ajuda para calcular seus valores exatos, para poder comparar os resultados$
 
-De maneira geral, uma recursão de ordem n pode ser escrita na forma $$f_k=\sum_{i=1}^{n} a_i .  f_k_-_i$$.
+De maneira geral, uma recursão de ordem n pode ser escrita na forma ![equation](https://latex.codecogs.com/gif.latex?f_k%3D%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20a_i%20.%20f_k_-_i).
 
 Dados os valores de **n**, **k** e **m**, bem como os valores de $$a_1,a_2,\dots,a_n$$ descubra o valor de $$f_k \mod m$$.
 ​

@@ -20,17 +20,17 @@ Zenzo é um aluno de matemática promissor e está encantado com a mais recente 
 
 De maneira geral, uma recursão de ordem n pode ser escrita na forma ![equation](https://latex.codecogs.com/gif.latex?f_k%3D%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20a_i%20.%20f_k_-_i).
 
-Dados os valores de **n**, **k** e **m**, bem como os valores de $$a_1,a_2,\dots,a_n$$ descubra o valor de $$f_k \mod m$$.
+Dados os valores de **n**, **k** e **m**, bem como os valores de ![equation](https://latex.codecogs.com/gif.latex?a_1%2Ca_2%2C%5Cdots%2Ca_n) descubra o valor de ![equation](https://latex.codecogs.com/gif.latex?f_k%20%5Cmod%20m).
 ​
 
 **Entrada**
 
-A primeira linha da entrada contém três inteiros: **n**, **k** e **m**. A segunda linha contém n inteiros: $$a_1,a_2,\dots,a_n$$.
-A terceira linha contém os n valores base da recursão: $$f_1, f_2, \dots, f_n \mod m$$.
+A primeira linha da entrada contém três inteiros: **n**, **k** e **m**. A segunda linha contém n inteiros: ![equation](https://latex.codecogs.com/gif.latex?a_1%2Ca_2%2C%5Cdots%2Ca_n).
+A terceira linha contém os n valores base da recursão: ![equation](https://latex.codecogs.com/gif.latex?f_1%2C%20f_2%2C%20%5Cdots%2C%20f_n%20%5Cmod%20m).
 ​
 **Saída**
 
-Seu programa deve imprimir um único inteiro: o valor de $$f_k \mod m$$.
+Seu programa deve imprimir um único inteiro: o valor de ![equation](https://latex.codecogs.com/gif.latex?f_k%20%5Cmod%20m).
 
 **Subtask 1 (20 pontos)**
 * n=2

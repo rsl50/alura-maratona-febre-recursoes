@@ -40,11 +40,13 @@ Seu programa deve imprimir um único inteiro: o valor de ![equation](https://lat
 * ![equation](https://latex.codecogs.com/gif.latex?1%5Cleq%20m%20%5Cleq%2010%5E%7B6%7D)
 * ![equation](https://latex.codecogs.com/gif.latex?-10%5E%7B6%7D%5Cleq%20a_1%2Ca_2%20%5Cleq%2010%5E%7B6%7D)
 ​​
+
 **Subtask 2 (40 pontos)**
 * ![equation](https://latex.codecogs.com/gif.latex?1%20%5Cleq%20n%5Cleq%2010)
 * ![equation](https://latex.codecogs.com/gif.latex?1%20%5Cleq%20k%5Cleq%2010)
 * ![equation](https://latex.codecogs.com/gif.latex?1%20%5Cleq%20m%5Cleq%2010%5E%7B6%7D)
 * ![equation](https://latex.codecogs.com/gif.latex?0%20%5Cleq%20a_i%20%5Cleq%2010%5E%7B6%7D)	![equation](https://latex.codecogs.com/gif.latex?%5Cforall%20i%2C%201%20%5Cleq%20i%20%5Cleq%20n)
+
 
 ​​**Subtask 3 (40 pontos)**
 * ![equation](https://latex.codecogs.com/gif.latex?1%20%5Cleq%20n%5Cleq%2010%5E%7B3%7D)

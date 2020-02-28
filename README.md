@@ -26,7 +26,8 @@ Dados os valores de **n**, **k** e **m**, bem como os valores de ![equation](htt
 
 **Entrada**
 
-A primeira linha da entrada contém três inteiros: **n**, **k** e **m**. A segunda linha contém n inteiros: ![equation](https://latex.codecogs.com/gif.latex?a_1%2Ca_2%2C%5Cdots%2Ca_n).
+A primeira linha da entrada contém três inteiros: **n**, **k** e **m**. 
+A segunda linha contém n inteiros: ![equation](https://latex.codecogs.com/gif.latex?a_1%2Ca_2%2C%5Cdots%2Ca_n).
 A terceira linha contém os n valores base da recursão: ![equation](https://latex.codecogs.com/gif.latex?f_1%2C%20f_2%2C%20%5Cdots%2C%20f_n%20%5Cmod%20m).
 ​
 
@@ -74,4 +75,4 @@ Saída:
 ```
 
 **Nota**
-**Escrevendo equações no Markdown: https://stackoverflow.com/a/45603559**
+**Escrevendo equações no Markdown: https://stackoverflow.com/a/45603559 e https://www.codecogs.com/latex/eqneditor.php**
